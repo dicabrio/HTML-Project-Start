@@ -1,0 +1,24 @@
+/* 
+    Document   : screen.css
+    Created on : 12-dec-2010, 14:23:27
+    Author     : robert
+    Description:
+        screen css
+*/
+
+root { 
+    display: block;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+section {
+	display: block;
+}
+
+nav {
+	display: block;
+}
